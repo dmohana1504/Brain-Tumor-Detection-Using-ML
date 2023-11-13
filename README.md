@@ -29,7 +29,7 @@ The Brain MRI Images for Brain Tumor Detection dataset is used in both notebooks
 ## Requirements
 
 - Python 3.x
-- Libraries: [List all necessary libraries, e.g., TensorFlow, NumPy, OpenCV, etc.]
+- Libraries: tensorflow, tensorflow.keras.models, tensorflow.keras.layers, tensorflow.keras.callbacks, sklearn.model_selection, sklearn.metrics, sklearn.utils, numpy, matplotlib.pyplot, cv2 (OpenCV), imutils, keras.preprocessing.image, os, time
 
 ## Usage
 
