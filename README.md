@@ -32,9 +32,8 @@ The dataset comprises 253 Brain MRI Images divided into two categories: 155 tumo
 ### Setup
 Clone the repository and install the required packages:
 ```
-git clone https://github.com/dmohana1504/ML_Project.git
-cd [repo-name]
-pip install -r requirements.txt
+git clone https://github.com/dmohana1504/Brain-Tumor-Detection-Using-ML.git
+cd Brain-Tumor-Detection-Using-ML
 ```
 
 ## Usage
